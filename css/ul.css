@@ -1,0 +1,19 @@
+nav{margin: 0 auto;width: 500px;height: 100px;font-family:'微软雅黑';border:1px solid; }
+/*隐藏了里面的ul*/
+nav ul ul{
+	display: none;
+}
+/*当li获取焦点时显示隐藏在里面的ul，并定义为块*/
+nav ul li:hover > ul {
+		display: block;
+	}
+nav ul{
+	display: inline-table;
+}
+
+nav ul li {
+	float: left;
+}
+nav ul ul li{
+	float:none;
+}

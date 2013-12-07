@@ -1,0 +1,58 @@
+body{margin: 0px;padding: 0px;}
+.headertool{border:1px solid;height: 30px;font-size: 14px;}
+.headerheader{width: 350px;height:30px;border:1px solid;float:right;margin: 0 auto;}
+.headerheader span{margin-left: 50px;}
+.headerheader a{font-family: '微软雅黑';text-decoration: none;margin-right: 10px;}
+nav{margin: 0 auto;width: 600px;height: 100px;font-family:'微软雅黑';border:1px solid; }
+a{color:#008298; }
+a:hover{color: #55CC99; }
+nav ul {
+
+	background-color: #F6F6F1;
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+nav ul li {
+	float: left;
+}
+
+nav ul li:hover a {
+			color: #55CC99;
+		}
+	
+nav ul li a {
+		display: block; padding: 25px 40px;
+		color: #008298; text-decoration: none;
+	}
+.left{border:1px solid;height: 500px;width: 200px;float: left;margin-top: 20px;margin-left: 70px;
+	background-color: #F6F6F1;}
+.center{border:1px solid;height: 90%;width: 700px;float: left;margin-top: 20px;margin-left: 10px;}
+.right{border:1px solid;height: 500px;width: 200px;float: left;margin-top: 20px;margin-left: 10px;
+	background-color: #F6F6F1;}
+.foot{border:1px solid;height: 200px;width: 600px;margin-left: 322px;float: left;font-family: '微软雅黑';
+		font-size: 14px;background-color: #F6F6F1;}.botm{width: 250px;height: 35px;margin: 0 auto;margin-bottom: -10px;margin-top: 150px;}
+.botmbotm{width: 300px;height: 20px;margin: 0 auto;}
+.headerimage{border:1px solid;margin: 0 auto;height: 100px;width: 100px;}
+.headerimage img{height: 100px;width: 100px;}
+.contentheader{border:1px solid;height: 30px;width: 600px;}
+.contenttitle{border:1px solid;height: 35px;width: 600px;}
+.contentimage{border:1px solid;}
+.contentremark{border:1px solid;height:150px;width: 600px;}
+.contentgo{border:1px solid;height: 30px;width: 600px;}
+.contentfoot{border:1px solid;height: 30px;width: 600px;}
+.contentfootfoot{border:1px solid;height:30px;width: 200px;float:right;}
+.acontent{display:block;margin: 0px auto;width: 100px;}
+.discuss{float:right;margin-right: 30px;}
+.discuss a{text-decoration: none;}
+button{float: right;height: 40px;width: 150px;font-family: '微软雅黑';font-size: 15px;
+		background-color: #458CCB;border-color:#458CCB;border:0px;margin-top: 5px;color: #FFFFFF; }
+.botm{width: 250px;height: 35px;margin: 0 auto;margin-bottom: -10px;margin-top: 150px;}
+.botmbotm{width: 300px;height: 20px;margin: 0 auto;color:#008298; }
+a{text-decoration: none;}

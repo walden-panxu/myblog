@@ -1,0 +1,12 @@
+.leftaside{border:1px solid;height:250px;width: 150px;list-style: none;}
+.leftaside li{border:1px solid;height:35px;width: 150px;margin-top: 10px;}
+.leftaside li:hover{background-color: #458CCB;border:0px;}
+.leftaside li a:hover{color:#FFFFFF;}
+.leftaside li a{text-decoration: none;border:1px solid;line-height: 35px;display: block;text-align: center;
+				font-weight: bold;font-family: '微软雅黑';}
+fieldset{height:100px;border-color: blue;}
+legend{font-family: '微软雅黑';}
+.comestation{border:1px solid;height: 120px;}
+marquee{height: 120px;}
+.countdown{border:1px solid;margin: 0px auto;width: 200px;margin-top: 70px;}
+pre{font-family: '微软雅黑';font-size: 15px;}

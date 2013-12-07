@@ -1,0 +1,42 @@
+body{margin: 0px;padding: 0px;}
+.headertool{border:1px solid;height: 30px;font-family: '微软雅黑';}
+.menu{float: left;width: 400px;border:1px solid;height: 30px;}
+.menu ul{list-style: none;border:1px solid;width: 400px;height: 30px;margin-top: 5px;}
+.menu ul li{float: left;margin-left: 20px;}
+.menu ul li a{text-decoration: none;color: #008298;font-size: 15px;}
+.menu ul li a:hover{color: #55CC99;}
+.headerheader{width: 350px;height:30px;border:1px solid;float: right;font-size: 14px;}
+.headerheader span{margin-left: 50px;}
+.headerheader a{text-decoration: none;margin-right: 10px;font-family:'微软雅黑';color: #008298;}
+.headerheader a:hover{color: #55CC99;}
+nav{margin: 0 auto;width: 600px;height: 35px;font-family:'微软雅黑';border:1px solid;
+	margin-top: 20px; font-size: 18px;margin-left: 15%;}
+nav ul{border:1px solid;height: 35px;margin-top: 0px;}
+nav ul li{float: left;margin-right: 40px;list-style: none;border:1px solid;
+		width: 80px;height: 35px;line-height: 30px;text-align: center;}
+nav ul li:hover{background-color: #00B7EE;border:0px;}
+nav ul li a{text-decoration: none;display: block;width: 80px;height: 30px;color: #008298}
+nav ul li a:hover{color: #fff;}
+.imagebody{margin-left: 15%;width: 70%;height: 100%;border:1px solid;margin-top: 10px;}
+.foot{border:1px solid;height: 200px;width: 600px;margin-left: 322px;float: left;font-family: '微软雅黑';
+		font-size: 14px;background-color: #F6F6F1;}
+.botm{width: 250px;height: 35px;margin: 0 auto;margin-bottom: -10px;margin-top: 150px;}
+.botmbotm{width: 300px;height: 20px;margin: 0 auto;}
+.leftshow{border:1px solid;float: left;width: 65%;height: 350px;}
+.rightshow{border:1px solid;float: left;margin-left: 10px;width: 25%;height: 350px;}
+.showimages{border:1px solid;height: 60%;width: 100%;margin-top: 360px;}
+.leftaside{border:1px solid;height:250px;width: 150px;list-style: none;}
+.rightshow ul{list-style: none;margin-top: 200px;}
+.rightshow ul li{border:1px solid;height:35px;width: 150px;margin-top: 10px;
+		background-color: #458CCB;border:0px;}
+
+.rightshow ul li a{text-decoration: none;border:1px solid;line-height: 35px;display: block;text-align: center;
+				font-weight: bold;font-family: '微软雅黑';color:#FFFFFF;}
+.images{width: 600px;height: 350px;}
+.images img{width: 600px;height: 400px;}
+.png{color:#008298; }
+.foot{border:1px solid;height: 200px;width: 600px;margin-left: 322px;float: left;font-family: '微软雅黑';
+		font-size: 14px;background-color: #F6F6F1;}
+.botm{width: 250px;height: 35px;margin: 0 auto;margin-bottom: -10px;margin-top: 150px;}
+.botmbotm{width: 300px;height: 20px;margin: 0 auto;color:#008298;}
+a{text-decoration: none;color:#008298;}
